@@ -854,6 +854,7 @@ body {
 	position: absolute;
 	z-index: 20;
 	background-position: center 10px;
+	pointer-events: none;
 }
 
 .sign_detail {width: 680px;height: auto;margin: 0 auto;display: block;}
